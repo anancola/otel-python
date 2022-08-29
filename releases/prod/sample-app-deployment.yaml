@@ -4,6 +4,7 @@ metadata:
   labels:
     app: samplelog
   name: samplelog
+  namespace: default
 spec:
   replicas: 2
   selector:
