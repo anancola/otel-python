@@ -19,3 +19,4 @@ spec:
       - image: acrann.azurecr.io/sample-log
         name: samplelog
         # imagePullPolicy: Never
+      restartPolicy: always
