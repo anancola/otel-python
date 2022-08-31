@@ -4,7 +4,7 @@ metadata:
   labels:
     app: samplelog
   name: samplelog
-  namespace: samplelog
+  namespace: otel-python
 spec:
   replicas: 2
   selector:
